@@ -31,6 +31,10 @@
 
 ###
 
+<img align="right" height="200" src="https://imgs.search.brave.com/5ziPleOtbyANE8RHsbpnC2o8jbfQ73MTvM3kkuuua8E/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2IyL2Ri/LzQzL2IyZGI0MzEy/M2QzMTgxYjk0NTBk/MjY4MjliNGQzNDEw/LmpwZw"  />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31mv3uwvgeeyph6k4lnfhkkotkaq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mv3uwvgeeyph6k4lnfhkkotkaq&count=3" alt="Spotify recently played"  />
@@ -43,10 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekdotapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekdotapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="140" src="https://media1.tenor.com/m/kAFp1iwWuT0AAAAC/kick-butowski.gif"  />
 
 ###
 
